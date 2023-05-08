@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"br.com.clinica.view","l":"FormLogin"},{"p":"br.com.clinica.view","l":"FormPrincipal"},{"p":"br.com.clinica.controller","l":"LinuxBKP"}];updateSearchResults();

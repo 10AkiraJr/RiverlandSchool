@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"br.com.clinica.controller"},{"l":"br.com.clinica.view"}];updateSearchResults();
